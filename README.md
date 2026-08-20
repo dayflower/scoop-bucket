@@ -7,6 +7,12 @@ A personal bucket for [Scoop](https://scoop.sh), the Windows command-line instal
 ## How do I install these manifests?
 
 ```pwsh
-scoop bucket add scoop-bucket https://github.com/dayflower/scoop-bucket
-scoop install scoop-bucket/<manifestname>
+scoop bucket add dayflower https://github.com/dayflower/scoop-bucket
+scoop install dayflower/<manifestname>
 ```
+
+## Manifests
+
+| Manifest | What it is |
+|----------|------------|
+| [altoggle](https://github.com/dayflower/altoggle) | Switches the Windows IME from a solo press of a modifier key |
