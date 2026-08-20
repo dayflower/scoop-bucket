@@ -1,5 +1,5 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "Switches the Windows IME from a solo press of a modifier key",
     "homepage": "https://github.com/dayflower/altoggle",
     "license": "MIT",
@@ -9,8 +9,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dayflower/altoggle/releases/download/v0.2.0/altoggle-v0.2.0-x86_64-pc-windows-msvc.zip",
-            "hash": "c5912c39b674b7724063255e5d2831f90e9d5a56829518ba766c31bbc0b0f284"
+            "url": "https://github.com/dayflower/altoggle/releases/download/v0.3.0/altoggle-v0.3.0-x86_64-pc-windows-msvc.zip",
+            "hash": "4bdfc3dccfabdf38a092752dc7ec87ffb7a82b6455da2bf7896c2b5524bc1a35"
         }
     },
     "bin": "altoggle.exe",
